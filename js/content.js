@@ -1,6 +1,6 @@
 import getComponent from "../js/components.js";
 
-const mainContainer = document.getElementById("main");
+const mainContainer = document.getElementById("main_content_container");
 
 async function readJson() {
   const data = await fetch("./json/privacy_policy_es.json")
