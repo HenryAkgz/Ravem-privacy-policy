@@ -1,0 +1,26 @@
+.content_group_container,
+.group_content_container {
+  width: 100%;
+}
+
+.title_group {
+  color: white;
+  font-size: 1.7rem;
+  margin-bottom: 1rem;
+}
+
+.richParagraph {
+  font-size: 1.4rem;
+  color: var(--color-sof-white);
+  margin-bottom: 0.7rem;
+}
+
+.span_text {
+  color: var(--color-electric-green);
+}
+
+.link_tag {
+  text-decoration: underline;
+  color: rgb(203, 113, 23);
+  cursor: pointer;
+}

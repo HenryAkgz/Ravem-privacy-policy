@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "type": "group",
+      "horizontal_padding": 15,
+      "title_group": "Política de Privacidad de Ravem Music",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "Fecha de entrada en vigor: 29 de abril de 2025"
+        },
+        {
+          "type": "paragraph",
+          "content": "Gracias por usar Ravem Music. Tu privacidad es muy importante para nosotros. Esta política de privacidad explica cómo tratamos la información de los usuarios que utilizan nuestra aplicación."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "horizontal_padding": 15,
+      "title_group": "1. Recopilación de información",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "En la versión actual de Ravem Music, *no recopilamos ningún tipo de información personal* identificable de los usuarios. Toda la información generada por la app, como estadísticas de reproducción y listas locales, se guarda exclusivamente en el dispositivo del usuario y no se envía a servidores externos."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "horizontal_padding": 15,
+      "title_group": "2. Uso de información",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "Como no recopilamos datos, no hacemos ningún uso de los mismos. Toda la información generada en la app se utiliza únicamente para mejorar la experiencia local del usuario en su propio dispositivo."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "horizontal_padding": 15,
+      "title_group": "3. Publicidad",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "Esta aplicación utiliza servicios de publicidad proporcionados por Google AdMob. Aunque nosotros no recopilamos datos, *AdMob puede recopilar cierta información* anónima para mostrar anuncios personalizados o no personalizados. Para más detalles sobre cómo Google recopila y usa estos datos, puedes consultar la <####https://policies.google.com/privacy>Política de Privacidad de Google<####>."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "horizontal_padding": 15,
+      "title_group": "4. Cambios futuros",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "*Nos reservamos el derecho de modificar esta política de privacidad en el futuro*, especialmente si añadimos nuevas funciones que requieran el uso de datos del usuario. Si en el futuro recopilamos información personal, *lo haremos con total transparencia y solicitaremos el consentimiento explícito del usuario cuando sea necesario*."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "horizontal_padding": 15,
+      "title_group": "5. Idioma oficial de la política",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "Esta política de privacidad puede estar disponible en varios idiomas para facilitar su comprensión. Sin embargo, en *caso de conflicto o duda sobre su interpretación, prevalecerá la versión en español*, que se considerará la versión oficial para cualquier cuestión legal."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "horizontal_padding": 15,
+      "title_group": "6. Contacto",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "Si tienes alguna pregunta sobre esta política de privacidad, puedes contactarnos en: Akgz.software@gmail.com"
+        }
+      ]
+    }
+  ]
+}

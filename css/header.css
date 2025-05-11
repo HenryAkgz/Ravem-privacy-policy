@@ -1,0 +1,46 @@
+header,
+footer {
+  width: 100%;
+  background-color: var(--color-accent);
+}
+
+header {
+  position: fixed;
+}
+
+nav {
+  width: 100%;
+  height: var(--header-height);
+  padding: 1.5rem;
+  display: flex;
+  align-items: center;
+}
+
+.logo_header {
+  height: 80%;
+}
+
+/* ############## footer ########## */
+
+footer {
+  padding: 3rem 2rem;
+}
+
+footer p {
+  font-size: 1.3rem;
+  text-align: center;
+  color: var(--color-sof-white);
+}
+
+.contact_link {
+  color: var(--color-electric-green);
+  cursor: pointer;
+}
+
+.contact_link:hover {
+  text-decoration: underline;
+}
+
+.akgz_logo img {
+  height: 3rem;
+}
